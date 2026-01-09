@@ -5,29 +5,30 @@ This repository documents Day 1 of my Databricks 14 Days AI Challenge, focused o
 
 **📌 Day 1 Objectives**
 
-- Understand why Databricks is preferred over Pandas and Hadoop
-- Learn Lakehouse architecture fundamentals
-- Explore Databricks workspace structure
-- Study real-world industry use cases
-- Perform basic hands-on tasks using PySpark
+-  Understand why Databricks is preferred over Pandas and Hadoop.
+-  Learn Lakehouse architecture fundamentals
+  
+-  Explore Databricks workspace structure
+-  Study real-world industry use cases
+-  Perform basic hands-on tasks using PySpark
 
 **📚 What I Learned**
 1.Why Databricks vs Pandas/Hadoop?
-Pandas works on a single machine and is not scalable
-Hadoop is complex and slower for analytics
-Databricks provides scalable, distributed processing optimized for big data and AI
+- Pandas works on a single machine and is not scalable
+- Hadoop is complex and slower for analytics
+- Databricks provides scalable, distributed processing optimized for big data and AI
 
 2.Lakehouse Architecture
-Combines data lake flexibility with data warehouse performance
-Supports analytics, machine learning, and AI on the same data
-Databricks Workspace Structure
-Unified platform with notebooks, clusters, jobs, and data access
+- Combines data lake flexibility with data warehouse performance
+- Supports analytics, machine learning, and AI on the same data
+- Databricks Workspace Structure
+- Unified platform with notebooks, clusters, jobs, and data access
 Simplifies collaboration and workflow management
 
 3.Industry Use Cases
-Netflix: recommendation systems and real-time analytics
-Shell: large-scale data processing and predictive analytics
-Comcast: customer insights and AI-driven decision making
+- Netflix: recommendation systems and real-time analytics
+- Shell: large-scale data processing and predictive analytics
+- Comcast: customer insights and AI-driven decision making
 
 **🛠️ Hands-on Tasks Completed**
 

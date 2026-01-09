@@ -1,9 +1,9 @@
-##Databricks 14 Days AI Challenge 🚀##
-#Day 1 – Platform Setup & First Steps (09/01/26)
+**Databricks 14 Days AI Challenge 🚀**
+**Day 1 – Platform Setup & First Steps (09/01/26)**
 
 This repository documents Day 1 of my Databricks 14 Days AI Challenge, focused on setting up the Databricks platform and understanding its core concepts.
 
-📌 Day 1 Objectives
+**📌 Day 1 Objectives**
 
 - Understand why Databricks is preferred over Pandas and Hadoop
 - Learn Lakehouse architecture fundamentals
@@ -11,7 +11,7 @@ This repository documents Day 1 of my Databricks 14 Days AI Challenge, focused o
 - Study real-world industry use cases
 - Perform basic hands-on tasks using PySpark
 
-#📚 What I Learned
+**📚 What I Learned**
 1.Why Databricks vs Pandas/Hadoop?
 Pandas works on a single machine and is not scalable
 Hadoop is complex and slower for analytics
@@ -29,18 +29,18 @@ Netflix: recommendation systems and real-time analytics
 Shell: large-scale data processing and predictive analytics
 Comcast: customer insights and AI-driven decision making
 
-#🛠️ Hands-on Tasks Completed
+**🛠️ Hands-on Tasks Completed**
 
 1.Created a Databricks Community Edition account
 2.Navigated Workspace, Compute, and Data Explorer
 3.Created the first Databricks notebook
 4.Executed basic PySpark commands
 
-#🧠 Key Takeaway
+**🧠 Key Takeaway**
 
 Databricks simplifies big data and AI development by unifying data engineering, analytics, and machine learning on a single Lakehouse platform, making it easier to scale from experimentation to production.
 
-#🏷️ Tags & Mentions
+**🏷️ Tags & Mentions**
 @IndianDataClub 
 @Codebasics
 @Databricks

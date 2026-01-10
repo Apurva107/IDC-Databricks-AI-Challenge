@@ -40,12 +40,6 @@ Day 2 focused on understanding the core concepts of Apache Spark and how data is
 - DataFrames are optimized and preferred over RDDs for most use cases
 - Understanding Spark internals helps write more efficient data pipelines
 
----
-
-### ➡️ Next Steps
-- Spark SQL
-- Joins and aggregations
-- Performance optimization techniques
 
 ---
 

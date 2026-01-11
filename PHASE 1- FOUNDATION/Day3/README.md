@@ -37,7 +37,7 @@ Day 3 focused on mastering **PySpark transformations** used in real-world data e
 Shoutout to @Databricks @Codebasics @IndianDataClub for this challenge.
 
 ## 🏷️ Tags
-- DatabricksWithIDC
-- Databricks
-- Codebasics
-- IndianDataClub
+- #DatabricksWithIDC
+- #Databricks
+- #Codebasics
+- #IndianDataClub

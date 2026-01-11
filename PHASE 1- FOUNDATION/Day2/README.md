@@ -52,7 +52,7 @@ Day 2 focused on understanding the core concepts of Apache Spark and how data is
 ### 🙏 Acknowledgments
 Special thanks to:  
 - #DatabricksWithIDC  
-- @IandiabDataClub  
+- @IndianDataClub  
 - @Codebasics  
 - @Databricks  
 

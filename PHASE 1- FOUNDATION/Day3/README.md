@@ -1,4 +1,4 @@
-# 📅 DAY 3 (11/01/26) – PySpark Transformations Deep Dive
+# 📅 DAY 3 – PySpark Transformations Deep Dive
 
 ## 📌 Introduction
 Day 3 focused on mastering **PySpark transformations** used in real-world data engineering workflows. The emphasis was on understanding how PySpark differs from Pandas, performing complex joins, applying window functions for analytical use cases, and creating derived features on large-scale e-commerce data.
